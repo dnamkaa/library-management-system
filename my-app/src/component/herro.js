@@ -8,10 +8,11 @@ function Herro() {
    <div>
 
    <div className="herro">
-      <h1>The Free Pentecostal  <br></br> church of Tanzania </h1>
-      <p>TIE is a collection of educational, informational, 
+      <h1>pct mwanga student  <br></br> center </h1>
+      <p>PCT Digital library involves collection of educational, informational, 
         book, audio, self assessment question and 
-        video covering a wide range of categories.  </p>
+        video covering a wide range of categories.
+          </p>
 
          <button>Read more</button>
       </div>

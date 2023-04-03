@@ -6,7 +6,8 @@ function Viewitem() {
   return (
   <div>
     <div className='container1'>
-            <div className='leftside'>
+    <iframe src="http://online.fliphtml5.com/rwbnv/xszr/#p=1" width="100%" height="600px"></iframe>
+            {/* <div className='leftside'>
                 <img src={book12}   alt='' />
             </div>
             <div className='rightside'>
@@ -22,7 +23,7 @@ function Viewitem() {
                     printing and typesetting 
                     industry. Lorem Ipsum has been the industry's standard dummy
                      text ever since the 1500s,</p>
-            </div>
+            </div> */}
             
     </div>
     <MostPopularBooks/>
